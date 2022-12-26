@@ -1,0 +1,26 @@
+h1{
+  font-family: 'Lobster';
+  font-size: 8rem;
+  margin: 400px;
+  text-align: center;
+  padding: 50px;
+  line-height: 1.5rem;
+}
+
+.row{
+  text-align: center;
+  width:70rem;
+}
+
+.card{
+  padding: 3% 2%;
+  text-align: center;
+}
+
+img{
+  padding: 2%;
+  width: 40%;
+}
+
+
+ 
